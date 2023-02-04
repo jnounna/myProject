@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"name": "SSH FS - 324",
+			"uri": "ssh://324/home/nou20001"
+		}
+	],
+	"settings": {}
+}
