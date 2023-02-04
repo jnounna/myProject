@@ -15,8 +15,8 @@ Node js and, expo, and react js.
 # Useful Websites
 
 {Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [Youtube wiht the net ninja](https://www.youtube.com/@NetNinja)
+* [React website](https://reactnative.dev/docs/getting-started)
 
 # Future Work
 
